@@ -56,7 +56,7 @@ export default function HomeScreen() {
   return (
     <div>
       <header>
-        <h2>Logo Text</h2>
+        <h2>Logo</h2>
         <div>
           <p onClick={AboutComponent}>About</p>
           <p onClick={WebsitesComponent}>Websites</p>
